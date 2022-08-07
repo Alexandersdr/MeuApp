@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/alexander/NetDev6/NetDev6.csproj": {}
+    "/home/alexander/NetDev6/MeuApp/NetDev6.csproj": {}
   },
   "projects": {
-    "/home/alexander/NetDev6/NetDev6.csproj": {
+    "/home/alexander/NetDev6/MeuApp/NetDev6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alexander/NetDev6/NetDev6.csproj",
+        "projectUniqueName": "/home/alexander/NetDev6/MeuApp/NetDev6.csproj",
         "projectName": "NetDev6",
-        "projectPath": "/home/alexander/NetDev6/NetDev6.csproj",
+        "projectPath": "/home/alexander/NetDev6/MeuApp/NetDev6.csproj",
         "packagesPath": "/home/alexander/.nuget/packages/",
-        "outputPath": "/home/alexander/NetDev6/obj/",
+        "outputPath": "/home/alexander/NetDev6/MeuApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/alexander/.nuget/NuGet/NuGet.Config"

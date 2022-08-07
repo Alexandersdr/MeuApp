@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h+4sxptxA9PqB53gJIBi+vez1PvrAh6NBjOPDgsQlFudvp5XoZMaGlrJetYA3sXuwqQMXajeHwhOP46m6E8aLg==",
+  "dgSpecHash": "ytRNa3HTCMnrQRJkbMDv+XfpMj8BXS0sLuJJ31ZvHohVyR+gka425dBZgJIp4jY5kbjbmRSYntD7RL6GLfY2Zw==",
   "success": true,
-  "projectFilePath": "/home/alexander/NetDev6/NetDev6.csproj",
+  "projectFilePath": "/home/alexander/NetDev6/MeuApp/NetDev6.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
