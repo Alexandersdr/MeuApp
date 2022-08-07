@@ -1,0 +1,15 @@
+/home/alexander/NetDev6/bin/Debug/net6.0/NetDev6
+/home/alexander/NetDev6/bin/Debug/net6.0/NetDev6.deps.json
+/home/alexander/NetDev6/bin/Debug/net6.0/NetDev6.runtimeconfig.json
+/home/alexander/NetDev6/bin/Debug/net6.0/NetDev6.dll
+/home/alexander/NetDev6/bin/Debug/net6.0/NetDev6.pdb
+/home/alexander/NetDev6/obj/Debug/net6.0/NetDev6.csproj.AssemblyReference.cache
+/home/alexander/NetDev6/obj/Debug/net6.0/NetDev6.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexander/NetDev6/obj/Debug/net6.0/NetDev6.AssemblyInfoInputs.cache
+/home/alexander/NetDev6/obj/Debug/net6.0/NetDev6.AssemblyInfo.cs
+/home/alexander/NetDev6/obj/Debug/net6.0/NetDev6.csproj.CoreCompileInputs.cache
+/home/alexander/NetDev6/obj/Debug/net6.0/NetDev6.dll
+/home/alexander/NetDev6/obj/Debug/net6.0/refint/NetDev6.dll
+/home/alexander/NetDev6/obj/Debug/net6.0/NetDev6.pdb
+/home/alexander/NetDev6/obj/Debug/net6.0/NetDev6.genruntimeconfig.cache
+/home/alexander/NetDev6/obj/Debug/net6.0/ref/NetDev6.dll
