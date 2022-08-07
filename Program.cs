@@ -1,17 +1,13 @@
-﻿using System;
-
+﻿// Inportações do programa
+using System;
+// Nomespace
 namespace MyApp // Note: actual namespace depends on the project name.
 {
+    //Classe principal do programa
     internal class Program
     {
-        //int idate = 25 ;
-        //int nome = alexander;
-        //var data = 06;
-       // var mes = ago;
-
-    //    const int IDADE_MINIMA;
-    //    const int IDADE_MINIMA = 25;
-
+        
+        //Função principal do programa
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
