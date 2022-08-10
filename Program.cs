@@ -10,7 +10,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
         //Função principal do programa
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!, Olá Mundo!");
         }
     }
 }
